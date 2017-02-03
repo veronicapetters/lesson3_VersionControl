@@ -15,4 +15,4 @@ This project included learning about code versioning, or backing up files essent
 ## Lessons Learned in the Assignment:
 1. code version control: managing and backing up files and code so that you may go back if the next step in your code isn't working.
 2. git repository: the git init command will create a new repository, it's usually the first command you'll run in a new project.
-3. double dash comments: help make sure that you know what you were trying to do in your code if you go back to it later and it just helps you remember, or helps others know what you were doing when they look at your code and can see your comments.
+3. advantages of VCS: if you're on a team working on code it will allow you to merge all of your work into the same common file.
